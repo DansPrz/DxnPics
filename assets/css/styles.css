@@ -31,6 +31,7 @@ html {
 }
 
 .img-carrusel{
+    
     height: calc(100vh - 76px);
     object-fit: cover;
     object-position: center;
@@ -38,12 +39,21 @@ html {
 
 .img-card{
     width: 300px;
-    height: 150px;
+    height: 500px;
     object-fit: cover;
     object-position: center;
 }
 
 .videoIframe{
+    margin: auto;
     width: 500px;
     height: 300px;
+}
+
+.ajuste-video{
+    text-align: center;
+}
+
+.paquetesfoto{
+    height: 500px;
 }
