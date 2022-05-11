@@ -46,7 +46,7 @@ html {
 
 .videoIframe{
     margin: auto;
-    width: 500px;
+    width: auto;
     height: 300px;
 }
 
@@ -55,6 +55,6 @@ html {
 }
 
 .paquetesfoto{
-    height: 480px;
-    width: 338px;
+    height: 500px;
+    width: auto;
 }
