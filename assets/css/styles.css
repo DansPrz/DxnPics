@@ -38,7 +38,7 @@ html {
 }
 
 .img-card{
-    width: 300px;
+    width: 380px;
     height: 500px;
     object-fit: cover;
     object-position: center;
@@ -55,5 +55,6 @@ html {
 }
 
 .paquetesfoto{
-    height: 500px;
+    height: 480px;
+    width: 338px;
 }
